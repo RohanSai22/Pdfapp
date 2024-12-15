@@ -3,7 +3,6 @@
 import streamlit as st
 import os
 import json
-import fitz  # PyMuPDF
 from docx import Document
 from datetime import datetime
 import logging
