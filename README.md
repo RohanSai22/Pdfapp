@@ -26,7 +26,7 @@ An intelligent, multi-project document chat system powered by Google's Generativ
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/advanced-document-chat.git
+git clone $repo
 cd advanced-document-chat
 text
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 text
 
 4. **Set up your Google API Key**
-Create a `.env` file in the root directory and add your Google API key:
+Create a `.env` file or Modify existing one in the root directory and add your Google API key:
 GOOGLE_API_KEY=your_google_api_key_here
 text
 
@@ -104,7 +104,7 @@ This project is licensed under the MIT License.
 
 ## 📮 Support
 
-For support, please open an issue in the GitHub repository or contact [your-email@example.com].
+For support, please open an issue in the GitHub repository or contact [maragonirohansai@gmail.com].
 
 ## 🙏 Acknowledgments
 
